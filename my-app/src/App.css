@@ -1,0 +1,43 @@
+body {
+  /* background-image: url(https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
+}
+
+#header{
+/* background-color: grey; */
+margin-bottom: 50px;
+padding: 10px;
+padding-bottom: 30px;
+text-align: center;
+font-size: 60px;
+font-family: 'Dosis', sans-serif;
+}
+
+.jumbotron {
+  background-color: lightseagreen;
+  opacity: 0.9;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: 70px;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-title {
+  font-size: 60px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.bottom {
+  background-color: azure
+}

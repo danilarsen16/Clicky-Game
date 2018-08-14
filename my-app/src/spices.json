@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "beetPowder",
+      "image": "./images/beetPowder.JPG",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "cardamom",
+      "image": "cardamom.JPG",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "coriander",
+      "image": "coriander.JPG",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "crushedRedPepper",
+      "image": "crushedRedPepper.JPG",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "matchaGreenTea",
+      "image": "matchaGreenTea.JPG",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "mixedPeppercorn",
+      "image": "mixedPeppercorn.JPG",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "nutmeg",
+      "image": "nutmeg.JPG",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "oregano",
+      "image": "oregano.JPG",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "pinkPeppercorn",
+      "image": "pinkPeppercorn.JPG",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "sapphron",
+      "image": "sapphron.JPG",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "starAnise",
+      "image": "starAnise.JPG",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "tumeric",
+      "image": "tumeric.JPG",
+      "count": 0
+    }
+  ]
+  

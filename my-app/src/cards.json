@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "/images/beetPowder.JPG",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "cardamom",
+    "image": "/images/cardamom.JPG",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Coriander",
+    "image": "/images/coriander.JPG",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Crushed Red Pepper",
+    "image": "/images/crushedRedPepper.JPG",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Matcha Green Tea",
+    "image": "/images/matchaGreenTea.JPG",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Mixed Peppercorn",
+    "image": "/images/mixedPeppercorn.JPG",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Nutmeg",
+    "image": "/images/nutmeg.JPG",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Oregano",
+    "image": "/images/oregano.JPG",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Pink Peppercorn",
+    "image": "/images/pinkPeppercorn.JPG",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Sapphron",
+    "image": "/images/sapphron.JPG",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Star Anise",
+    "image": "/images/starAnise.JPG",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Tumeric",
+    "image": "/images/tumeric.JPG",
+    "count": 0
+  }
+]
