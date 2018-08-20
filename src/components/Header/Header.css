@@ -1,16 +1,25 @@
-.header {
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css');
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+
+.jumbotron {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
     width: 100%;
     font-size: 3rem;
-    color: darkred;
-    margin-bottom: 80px;
-    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.9;
+  }
 
+  .display-4 {
+    font-size: 80px;
+    font-family:'Luckiest Guy', cursive;
   }
-  
-  .title {
-    float: left;
-  }
+
   
   .scores {
-    float: right;
+    /* float: right; */
+    font-family: 'Dosis', sans-serif;
+    font-size: 160%;
   }

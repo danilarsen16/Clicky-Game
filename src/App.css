@@ -1,43 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css');
+
 body {
-  background-image: url(http://getdrawings.com/image/burger-drawing-58.jpg);
-}
-
-#header{
-/* background-color: grey; */
-margin-bottom: 50px;
-padding: 10px;
-padding-bottom: 30px;
-text-align: center;
-font-size: 60px;
-font-family: 'Dosis', sans-serif;
-}
-
-.jumbotron {
-  background-color: lightseagreen;
-  opacity: 0.9;
-  text-align: center;
-  font-family: 'Dosis', sans-serif;
-  font-size: 70px;
-}
-
-
-.App {
-  text-align: center;
-}
-
-.App-title {
-  font-size: 60px;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-.bottom {
-  background-color: azure
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/004/498/987/large/meghan-wissler-mwissler-bob-sburgerrestaurant.jpg?1484104923);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family:'Luckiest Guy', cursive;
 }
