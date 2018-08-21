@@ -14,4 +14,4 @@ Using React, this project required me to break up my application's UI into compo
 
 5. Once the user's score is reset after an incorrect guess, the game will restart.
 
-![Image](./img/Bobs Burgers.JPG)
+![Image](/img/Bobs Burgers.JPG)
