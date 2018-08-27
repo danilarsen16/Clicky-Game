@@ -28,6 +28,5 @@ The user's score will be reset to 0 if user clicks the same image more than once
 
 ## Website
 
-https://danilarsen16.github.io/Clicky-Game/
-
+https://danilarsen16.github.io/Memory-Game/
 
