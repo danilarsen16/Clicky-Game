@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danilarsen16.github.io/Memory-Game/",
+  "homepage": "https://github.com/danilarsen16/Memory-Game",
   "dependencies": {
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.1",
